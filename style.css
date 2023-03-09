@@ -67,3 +67,9 @@ body {
   grid-row-start: 2;
   grid-row-end: 6;
 }
+.seven {
+  grid-column-start: 2;
+  grid-column-end: 5;
+  grid-row-start: 8;
+  grid-row-end: 10;
+}
